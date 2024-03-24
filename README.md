@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Shiva Ganesh! 👋
 
 Welcome to my GitHub profile!
 
@@ -31,8 +31,8 @@ Here are some projects I've worked on:
 - Exploring data structures and algorithms.
 
 # 📫 Get in Touch:
-- LinkedIn: [Your LinkedIn Profile](LinkedIn URL)
-- Email: your@email.com
+- LinkedIn: linkedin.com/in/mummadishivaganesh/
+- Email: shmummadi205@gmail.com 
 
 # 🌟 Let's Connect:
 Feel free to explore my projects and reach out if you'd like to collaborate or chat about coding. Let's connect and learn together!  
